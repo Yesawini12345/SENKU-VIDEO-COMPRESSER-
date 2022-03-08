@@ -7,7 +7,7 @@ Please give me a star🌟and fork
 
 #### The Easy Way
 
-  Deploy(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
+  [![Deploy][https://www.herokucdn.com/deploy/button.svg)][https://heroku.com/deploy?template=]
 
 #### The Hard Way
 
